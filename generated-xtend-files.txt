@@ -1,0 +1,9 @@
+./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/formatting/Antlr4Formatter.xtend
+./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/Antlr4Generator.xtend
+./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/scoping/Antlr4ScopeProvider.xtend
+./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/validation/Antlr4Validator.xtend
+./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/contentassist/Antlr4ProposalProvider.xtend
+./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/labeling/Antlr4DescriptionLabelProvider.xtend
+./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/labeling/Antlr4LabelProvider.xtend
+./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/outline/Antlr4OutlineTreeProvider.xtend
+./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/quickfix/Antlr4QuickfixProvider.xtend

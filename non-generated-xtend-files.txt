@@ -1,0 +1,67 @@
+0a1
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/Activator.xtend
+2a4,14
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/Antlr4OutputConfigurationProvider.xtend
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/CodeGeneratorListener.xtend
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/Distributions.xtend
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/LaunchConstants.xtend
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/OutputOption.xtend
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/ToolOptions.xtend
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/ToolOptionsProvider.xtend
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/ToolRunner.xtend
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/parsetree/ParseTreeGenerator.xtend
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/parsetree/ParseTreeNode.xtend
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/scoping/Antlr4NameProvider.xtend
+3a16,17
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/services/ModelExtensions.xtend
+> ./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/validation/Antlr4MissingReferenceMessageProvider.xtend
+5a20,33
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/editor/Antlr4NatureCallback.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/folding/Antlr4FoldedPosition.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/folding/Antlr4FoldingPage.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/folding/Antlr4FoldingPreferenceStoreInitializer.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/folding/Antlr4FoldingRegionAcceptor.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/folding/Antlr4FoldingRegionProvider.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/folding/Antlr4FoldingStructureProvider.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/generator/DefaultToolOptionsProvider.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/generator/RefreshProjectProcessor.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/generator/TodoListProcessor.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/highlighting/AntlrHighlightingCalculator.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/highlighting/AntlrHighlightingConfiguration.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/highlighting/ShowWhitespaceCharactersActionContributor.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/highlighting/TokenToAttributeIdMapper.xtend
+6a35
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/labeling/Antlr4HoverProvider.xtend
+7a37,42
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/launch/Antlr4ToolLaunchConfigurationDelegate.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/launch/Antlr4ToolTabGroup.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/launch/AntlrToolLaunchShortcut.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/launch/ITabUtilities.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/launch/MainTab.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/launch/VariableButtonListener.xtend
+8a44,48
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/parsetree/ParseTreeDiagram.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/parsetree/ParseTreeView.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/preferences/Antlr4PreferenceStoreInitializer.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/preferences/BuildPreferenceStoreInitializer.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/preferences/BuilderConfigurationBlock.xtend
+9a50,68
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/actions/ExportToHtmlAction.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/ILayoutConstants.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/layout/CompartmentLayout.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/layout/ParallelLayout.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/layout/SequenceLayout.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/primitives/AbstractNode.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/primitives/Connection.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/primitives/CrossPoint.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/primitives/CrossPointSegment.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/primitives/EmptyAltNode.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/primitives/LabelNode.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/primitives/PrimitiveFigureFactory.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/figures/primitives/RoundedNode.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/trafo/Antlr4RailroadFactory.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/railroad/trafo/Antlr4RailroadTransformer.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/services/DefaultGrammarResource.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/views/ColorProvider.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/views/GraphView.xtend
+> ./antlr4ide.ui/src/main/java/com/github/jknack/antlr4ide/ui/wizard/JdtFreeProjectCreator.xtend
