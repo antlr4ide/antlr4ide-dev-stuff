@@ -1,0 +1,7 @@
+./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/Activator.xtend
+./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/Antlr4OutputConfigurationProvider.xtend
+./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/CodeGeneratorListener.xtend
+./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/Distributions.xtend
+./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/LaunchConstants.xtend
+./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/OutputOption.xtend
+./antlr4ide.core/src/main/java/com/github/jknack/antlr4ide/generator/ToolOptions.xtend
